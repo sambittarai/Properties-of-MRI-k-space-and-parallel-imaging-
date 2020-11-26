@@ -127,4 +127,4 @@ Let's see what happens to the images when we under-sample our k-space data.
 	where, C - Image from Coil 'i'
 	       S - Sensitivity of Coil 'i'
 	       M - underlying sample magnetization
-
+* Here, both S and M are unknowns, however, we can use a coil-combined image as an approximation of M, then we can find S.
