@@ -98,3 +98,6 @@ Here the final image is formed by removing the top half of k-space.
 
 **[b] Remove half of k-space by removing every 2nd line in x-direction**
 
+![](Image_Plots/Task_4/b.png)
+
+
