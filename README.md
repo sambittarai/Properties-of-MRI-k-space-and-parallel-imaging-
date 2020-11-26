@@ -44,3 +44,11 @@ The aim of this repository is to get familiar with the properties of MRI k-space
 ## Task 3
 
 ### [a]
+
+**Case 1**
+
+**Case 2**
+
+**Case 3**
+
+### [b]
