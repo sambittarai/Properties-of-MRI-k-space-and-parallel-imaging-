@@ -120,5 +120,6 @@ Let's see what happens to the images when we under-sample our k-space data.
 
 ![](Image_Plots/Task_5/Aliasing/coil_1_2.png)
 
+* As described above, when we undersample our k-space data, there will be artifacts such as aliasing. So that we can no longer unambiguously separate out the top and bottom portions of the brain. This is because we have thrown out half of our measurements. Parallel Imaging technique like SENSE can be used to overcome this problem.
 
 
