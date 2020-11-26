@@ -116,8 +116,11 @@ Here the final image is formed by removing the top half of k-space.
 ## Task 5
 Let's see what happens to the images when we under-sample our k-space data.
 
-Aliasing due to coil 1  Aliasing due to coil 2
+**Aliasing due to coil 1**  
 
-![](Image_Plots/Task_5/Aliasing/coil1.png) ![](Image_Plots/Task_5/Aliasing/coil2.png)
+![](Image_Plots/Task_5/Aliasing/coil1.png) 
 
+**Aliasing due to coil 2**
+
+![](Image_Plots/Task_5/Aliasing/coil2.png)
 
