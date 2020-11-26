@@ -58,6 +58,9 @@ Our k-space is of dimension (256, 256, 2).
 
 **Case 2 - By Replacing half of the central elements of the k-space with zeros i.e. Kn(110:140, 110:140, :) = 0**
 
+![](Image_Plots/Task_3/2_Removing110_140.png.png)
+
+
 **Case 3**
 
 ### [b]
