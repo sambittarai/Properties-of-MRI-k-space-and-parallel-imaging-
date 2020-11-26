@@ -116,9 +116,15 @@ Here the final image is formed by removing the top half of k-space.
 ## Task 5
 Let's see what happens to the images when we under-sample our k-space data.
 
-**Aliasing due to coil 1**     **Aliasing due to coil 2**
+**Aliasing due to coil 1 and coil 2**
 
-![](Image_Plots/Task_5/Aliasing/coil 1 & 2.png)
+![](Image_Plots/Task_5/Aliasing/coil_1_2.png)
 
+* As described above, when we undersample our k-space data, there will be artifacts such as aliasing. So that we can no longer unambiguously separate out the top and bottom portions of the brain. This is because we have thrown out half of our measurements. Parallel Imaging technique like SENSE can be used to overcome this problem.
+* Parallel Imaging using SENSE:
+	  **C = S * M**
 
-
+	where, C - Image from Coil 'i'
+	       S - Sensitivity of Coil 'i'
+	       M - underlying sample magnetization
+* Here, both S and M are unknowns, however, we can use a coil-combined image as an approximation of M, then we can find S.
