@@ -100,4 +100,6 @@ Here the final image is formed by removing the top half of k-space.
 
 ![](Image_Plots/Task_4/b.png)
 
+**Inference**
+* By removing every 2nd line in the x-direction we are actually decreasing the spatial resolution along x-direction because while sampling the signal we are skipping some if the columns (frequency components) in the k-space.
 
