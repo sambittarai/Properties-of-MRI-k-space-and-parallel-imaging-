@@ -56,10 +56,12 @@ Our k-space is of dimension (256, 256, 2).
 * When we reconstruct our image from this k-space then we have mostly high-frequency components in our image and most of the high-frequency components corresponding to noise. Hence, the image looks noisy.
 * In other words, most of the signal contrast of the image corresponds to the central part of the k-space and replacing them with 0, which means we are decreasing the overall contrast of the image. Hence, the overall image is noist as well as reduced contrast.
 
-**Case 2 - By Replacing half of the central elements of the k-space with zeros i.e. Kn(110:140, 110:140, :) = 0**
+**Case 2 - By Replacing some of the central elements of the k-space with zeros i.e. Kn(110:140, 110:140, :) = 0**
 
 ![](Image_Plots/Task_3/2_Removing110_140.png)
 
+**Inference**
+* A similar thing happens here as described above in case 1.
 
 **Case 3**
 
