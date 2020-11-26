@@ -112,3 +112,5 @@ Here the final image is formed by removing the top half of k-space.
 * By removing every 2nd line in the y-direction we are actually decreasing the spatial resolution along y-direction because while sampling the signal we are skipping some of the rows in the k-space.
 * The other major problem with this is "Aliasing" artifact. By skipping every 2nd line in the y-direction of the k-space, we are actually removing most of the frequencies i.e. undersampling and hence after taking the Fourier transform we are having htis kind of artifact.
 * This also decreases the Field of View (FOV) of the image space.
+
+## Task 5
