@@ -28,5 +28,12 @@ The aim of this repository is to get familiar with the properties of MRI k-space
 * The image acquied by coil 1 has lower contrast in the bottom as compared to the top region. Hence, it is darker in the bottom region because the coil 1 is placed closer to the top. Therefore, the coil is most sensitive to the area which is closer to it.
 * Similarly, the image acquired by coil 2 has lower contrast in the top as compared to the bottom region. Hence, it is darker in the top region because the coil 2 is placed closer to the bottom region.
 
+## Task 2
+
+**Construct a composite image using the sum of squares (SoS) method**
+
+![](Image_Plots/Task_2/MRI.png)
+
+
 
 
