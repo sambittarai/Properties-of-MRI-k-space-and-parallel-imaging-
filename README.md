@@ -37,5 +37,6 @@ The aim of this repository is to get familiar with the properties of MRI k-space
 **Inference**
 
 * Here we are combining the data acquired by the coil-1 and coil-2 to get the final image using SoS function.
-
-
+* In Task 1 we acquired 2 images of the same anatomy using 2 different coils at 2 different positions.
+* The part of the anatomy which is closest to coil-1 generated maximum information for that anatomy and less data for the anatomy far from it. A similar thing happens for coil-2.
+* In Task 2 we combine those 2 images (in Task 1) to get the final image of the anatomy, which contains the complete information of the anatomy.
