@@ -88,6 +88,7 @@ Our k-space is of dimension (256, 256, 2). The image space is reconstructed usin
 **[a] Remove half of k-space by removing the upper or lower half completely**
 
 Here the final image is formed by removing the top half of k-space.
+
 ![](Image_Plots/Task_4/a.png)
 
 
