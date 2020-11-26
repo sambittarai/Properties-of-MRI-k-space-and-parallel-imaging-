@@ -34,6 +34,8 @@ The aim of this repository is to get familiar with the properties of MRI k-space
 
 ![](Image_Plots/Task_2/MRI.png)
 
+**Inference**
 
+* Here we are combining the data acquired by the coil-1 and coil-2 to get the final image using SoS function.
 
 
