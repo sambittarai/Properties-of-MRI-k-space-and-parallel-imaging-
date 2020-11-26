@@ -80,3 +80,5 @@ Our k-space is of dimension (256, 256, 2).
 * Outermost parts of the k-space contains information about all the high-frequency components and also contains very low signals (low SNR), So by removing most of the outermost parts of the k-space, we are getting rid of high frequency components which results in getting rid of most of the noise in the image.
 * But it also results in blurring of the final image because most of the high-frequency components correspond to the edges in the image. The omission of so many high spatial frequencies means that many edges and much of the fine detail will be lost.
 * By removing outermost half of the k-space we are actually decreasing the spatial resolution by half of the image while increasing the SNR.
+
+## Task 4
