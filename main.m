@@ -33,7 +33,7 @@ coil1 = abs(k2x(squeeze(Kn(:,:,1)), 1));
 imagesc(coil1);
 colormap gray;
 
-%display of image from k-space of coil 1
+%display of image from k-space of coil 2
 coil2 = abs(k2x(squeeze(Kn(:,:,2)), 1));
 imagesc(coil2);
 colormap gray;
