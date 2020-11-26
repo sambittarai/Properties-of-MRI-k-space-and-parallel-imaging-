@@ -131,5 +131,5 @@ Let's see what happens to the images when we under-sample our k-space data.
 
 **The approximation of M from Coil 1 and Coil 2**
 
-![](Image_Plots/Task_5/Magnetization/coil_1_2.png)
+![](Image_Plots/Task_5/Magnetization/Coil_1_2.png)
 
