@@ -53,6 +53,8 @@ Our k-space is of dimension (256, 256, 2).
 
 **Inference**
 * Since the central parts of the k-space contains all the low-frequency components and also contains very high signals (high SNR), so by replacing most of the central parts of the k-space with 0, we were actually doing some kind of high pass filtering.
+* When we reconstruct our image from this k-space then we have mostly high-frequency components in our image and most of the high-frequency components corresponding to noise. Hence, the image looks noisy.
+* In other words, most of the signal contrast of the image corresponds to the central part of the k-space and replacing them with 0, which means we are decreasing the overall contrast of the image. Hence, the overall image is noist as well as reduced contrast.
 
 **Case 2**
 
