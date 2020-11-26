@@ -3,7 +3,8 @@ The aim of this repository is to get familiar with the properties of MRI k-space
 
 ## Task 1
 
-During MRI data acquisition, the space covered by the phase and frequency encoding data is known as the k-space. The k-space and Image space are related by Fourier Transform.
+* During MRI data acquisition, the space covered by the phase and frequency encoding data is known as the k-space. The k-space and Image space are related by Fourier Transform.
+* Here we are using multi-channel coils (number of coils = 2), to gain SNR, where each coil is independent. Each coil acquires the point of image which they were of most sensitive to.
 
 **k-space of coil 1**     
 
