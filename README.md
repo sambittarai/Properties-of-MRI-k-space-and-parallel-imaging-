@@ -68,5 +68,8 @@ Our k-space is of dimension (256, 256, 2).
 
 ![](Image_Plots/Task_3/3_Removing120_130.png)
 
+**Inference**
+* Same things happens in here as well. But since we are replacing even a smaller central region of k-space with 0, so our overall contrast increased a lot as compared to the previous 2 cases. But still the overall SNR is lower than the actual image.
+* And in all the above 3 cases the spatial resolution remains as it is.
 
 ### [b]
