@@ -128,3 +128,8 @@ Let's see what happens to the images when we under-sample our k-space data.
 	       S - Sensitivity of Coil 'i'
 	       M - underlying sample magnetization
 * Here, both S and M are unknowns, however, we can use a coil-combined image as an approximation of M, then we can find S.
+
+**The approximation of M from Coil 1 and Coil 2**
+
+![](Image_Plots/Task_5/Magnetization/coil_1_2.png)
+
