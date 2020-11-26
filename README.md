@@ -45,7 +45,7 @@ The aim of this repository is to get familiar with the properties of MRI k-space
 
 Our k-space is of dimension (256, 256, 2).
 
-### [a]
+### [a] Remove half of k-space by replacing the most central half with zeros.
 
 **Case 1**
 
