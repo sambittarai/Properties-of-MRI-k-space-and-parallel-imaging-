@@ -43,7 +43,7 @@ The aim of this repository is to get familiar with the properties of MRI k-space
 
 ## Task 3
 
-Our k-space is of dimension (256, 256, 2).
+Our k-space is of dimension (256, 256, 2). The image space is reconstructed using Fourier Transform.
 
 ### [a] Remove half of k-space by replacing the most central half with zeros.
 
@@ -82,3 +82,5 @@ Our k-space is of dimension (256, 256, 2).
 * By removing outermost half of the k-space we are actually decreasing the spatial resolution by half of the image while increasing the SNR.
 
 ## Task 4
+
+Our k-space is of dimension (256, 256, 2). The image space is reconstructed using Fourier Transform.
