@@ -13,7 +13,11 @@ The aim of this repository is to get familiar with the properties of MRI k-space
 
 **Image reconstructed from k-space of coil 1**
 
-![](Image_Plots/Task_1/Image_coil1.png) ![](Image_Plots/Task_1/Image_coil1.png)
+![](Image_Plots/Task_1/Image_coil1.png) 
+
+**Image reconstructed from k-space of coil 2**
+
+![](Image_Plots/Task_1/Image_coil2.png)
 
 
 
