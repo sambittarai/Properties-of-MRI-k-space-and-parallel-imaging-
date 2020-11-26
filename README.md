@@ -138,3 +138,7 @@ Let's see what happens to the images when we under-sample our k-space data.
 **Masked Sensitivity of M from Coil 1 and Coil 2**
 
 ![](Image_Plots/Task_5/Magnetization_Masks/Coil_1_2.png)
+
+**Final Image reconstructed with SENSE algorithm**
+
+![](Image_Plots/Task_5/final.png)
