@@ -102,4 +102,5 @@ Here the final image is formed by removing the top half of k-space.
 
 **Inference**
 * By removing every 2nd line in the x-direction we are actually decreasing the spatial resolution along x-direction because while sampling the signal we are skipping some if the columns (frequency components) in the k-space.
+* The other major problem with this is "Aliasing" artifact. In order to accurately reflect the continuous signal (along x-direction), we need to sample the signal rapidly enough such that all the main frequencies are present before taking the Fourier Transform. But here since we are skipping every 2nd line in x-direction, this is same as under-sampling the signal (slow sampling), which results in aliasing in the x-direction.
 
