@@ -114,3 +114,4 @@ Here the final image is formed by removing the top half of k-space.
 * This also decreases the Field of View (FOV) of the image space.
 
 ## Task 5
+Let's see what happens to the images when we under-sample our k-space data.
