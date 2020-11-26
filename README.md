@@ -43,6 +43,8 @@ The aim of this repository is to get familiar with the properties of MRI k-space
 
 ## Task 3
 
+Our k-space is of dimension (256, 256, 2).
+
 ### [a]
 
 **Case 1**
