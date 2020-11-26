@@ -62,6 +62,7 @@ Our k-space is of dimension (256, 256, 2).
 
 **Inference**
 * A similar thing happens here as described above in case 1.
+* Here, as we can see that the edges are more clear although the overall contrast is improved a little as compared to case 1. This is because we are replacing a smaller central region of k-space with 0, which means now we have comparatively more number of lower frequencies present, which means better contrast and SNR.
 
 **Case 3**
 
