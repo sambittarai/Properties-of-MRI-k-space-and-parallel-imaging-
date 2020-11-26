@@ -47,7 +47,9 @@ Our k-space is of dimension (256, 256, 2).
 
 ### [a] Remove half of k-space by replacing the most central half with zeros.
 
-**Case 1**
+**Case 1 - Replacing half of the central elements of the k-space with zeros i.e. Kn(64:192, 64:192, :) = 0**
+
+![](Image_Plots/Task_3/1_Removing64_192.png)
 
 **Case 2**
 
