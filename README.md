@@ -91,4 +91,7 @@ Here the final image is formed by removing the top half of k-space.
 
 ![](Image_Plots/Task_4/a.png)
 
+**Inference**
+* We know that, each point in the k-space contains part of the information for the complete image. A point in the k-space does not corresponds to a specific point in the image space.
+*So by removing the top half of the k-space we are basically throwing away 50% of the information. And since we are removing an entire half, we are actually removing some of the low frequency components as well as some of the high frequency components.
 
