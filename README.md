@@ -118,6 +118,8 @@ Let's see what happens to the images when we under-sample our k-space data.
 
 Aliasing due to coil 1 Aliasing due to coil 2
 
-![](Image_Plots/Task_5/coil1.png) ![](Image_Plots/Task_5/coil2.png)
+![](Image_Plots/Task_5/coil1.png) 
+
+![](Image_Plots/Task_5/coil2.png)
 
 
