@@ -76,3 +76,5 @@ Our k-space is of dimension (256, 256, 2).
 
 ![](Image_Plots/Task_3/b.png)
 
+**Inference**
+* Outermost parts of the k-space contains information about all the high-frequency components and also contains very low signals (low SNR), So by removing most of the outermost parts of the k-space, we are getting rid of high frequency components which results in getting rid of most of the noise in the image.
