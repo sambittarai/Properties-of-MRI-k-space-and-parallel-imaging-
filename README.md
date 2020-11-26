@@ -51,6 +51,9 @@ Our k-space is of dimension (256, 256, 2).
 
 ![](Image_Plots/Task_3/1_Removing64_192.png)
 
+**Inference**
+* Since the central parts of the k-space contains all the low-frequency components and also contains very high signals (high SNR), so by replacing most of the central parts of the k-space with 0, we were actually doing some kind of high pass filtering.
+
 **Case 2**
 
 **Case 3**
