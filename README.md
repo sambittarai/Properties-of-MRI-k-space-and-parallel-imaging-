@@ -143,4 +143,4 @@ Let's see what happens to the images when we under-sample our k-space data.
 
 ![](Image_Plots/Task_5/final.png)
 
-* Final Unaliased image is shown above. The SENSE method takes sensitivities and aliased coil images as input and outputs a single unaliased image, which is what we get here.
+* Final Unaliased image is shown above. The SENSE method takes sensitivities and aliased coil images as input and outputs a single unaliased image, which is what we get here
